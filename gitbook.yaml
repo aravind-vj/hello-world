@@ -1,4 +1,2 @@
 root: ./mintpress/
 
-redirects:
-  previous/page: new-folder/page.md
